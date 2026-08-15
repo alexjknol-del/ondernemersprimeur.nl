@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ondernemersprimeur.nl/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://ondernemersprimeur.nl/nieuws/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ondernemersprimeur.nl/over/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://ondernemersprimeur.nl/schrijfster/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://ondernemersprimeur.nl/partners/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -16,4 +17,19 @@
   <url><loc>https://ondernemersprimeur.nl/nieuws/ai-in-het-mkb/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ondernemersprimeur.nl/nieuws/prijzen-verhogen-zonder-klanten-te-verliezen/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ondernemersprimeur.nl/nieuws/persoonlijk-merk-van-de-ondernemer/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/overnameadvies/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/huygenlammers-advocaten/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/bedrijfsfotografie-nl/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/dataopslagnederland/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/pbxcomplete/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/royal-safety/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/speak-and-spoke/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/the-team-building/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/kraakmakend/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/moneybird/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/e-boekhouden-nl/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/mollie/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/sendcloud/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/qredits/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ondernemersprimeur.nl/bedrijven/nmbrs/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
